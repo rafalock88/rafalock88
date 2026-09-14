@@ -21,5 +21,5 @@
 ---
 
 ### 📬 Vamos nos conectar?
-- [**LinkedIn**](www.linkedin.com/in/rafael-rodrigues-05218216a) 
-- [**E-mail**](rafaelrod88@hotmail.com)
+- [**LinkedIn**](https://www.linkedin.com/in/rafael-rodrigues-05218216a) 
+- [**E-mail**](mailto:rafaelrod88@hotmail.com)
