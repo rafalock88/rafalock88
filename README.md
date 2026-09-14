@@ -22,4 +22,4 @@
 
 ### 📬 Vamos nos conectar?
 - [**LinkedIn**](www.linkedin.com/in/rafael-rodrigues-05218216a) 
-- [**E-mail:**](https://outlook.live.com/mail/?culture=pt-br&country=br)
+- [**E-mail**](https://outlook.live.com/mail/?culture=pt-br&country=br)
