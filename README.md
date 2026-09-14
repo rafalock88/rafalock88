@@ -22,4 +22,4 @@
 
 ### 📬 Vamos nos conectar?
 - [**LinkedIn**](www.linkedin.com/in/rafael-rodrigues-05218216a) 
-- [**E-mail**]("rafaelrod88@hotmail.com" <rafaelrod88@hotmail.com>)
+- [**E-mail**].("rafaelrod88@hotmail.com" <rafaelrod88@hotmail.com>).
